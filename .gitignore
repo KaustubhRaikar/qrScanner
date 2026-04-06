@@ -41,3 +41,8 @@ app-example
 # generated native folders
 /ios
 /android
+node_modules/
+implementation_plan.md
+scripts/
+qr_scanner_dev_guide.md
+
